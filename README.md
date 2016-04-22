@@ -1,4 +1,4 @@
-##Drupal 8 links & resources
+##Drupal 8 链接 & 资源
   Feel free to fork & contribute :)
 
 + Official docs
